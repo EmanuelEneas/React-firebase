@@ -65,10 +65,8 @@ bash
 Copiar
 Editar
 npm run dev
-Abre tu navegador en http://localhost:5173 (o el puerto que indique Vite).
 
-👀 Vista previa
-Aquí puedes subir capturas de pantalla del registro y login funcionando (opcional pero recomendable).
+
 
 💡 Objetivo del proyecto
 Este proyecto fue realizado con fines educativos y de portfolio. Me permitió:
